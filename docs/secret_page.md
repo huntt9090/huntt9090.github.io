@@ -1,1 +1,0 @@
-![Awesomeface](./assets/awesomeface.png)
