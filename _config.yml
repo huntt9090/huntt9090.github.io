@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Tim's corner
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Tim's Corner
 description: Welcome to my little corner of the internet!
