@@ -1,0 +1,5 @@
+{
+    "name": "Jekyll-testsite",
+    "build": { "dockerfile": "Dockerfile" },
+    "forwardPorts": [4000]
+}
