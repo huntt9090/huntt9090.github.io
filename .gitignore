@@ -1,3 +1,4 @@
-tmp
+.BUNDLE_APP_CONFIG
 .devcontainer
-docs
+vendor
+_site
