@@ -1,6 +1,5 @@
 _site
 .sass-cache
+Gemfile.lock
 .jekyll-cache
-.jekyll-metadata
-.BUNDLE_APP_CONFIG
-vendor
+*.gem
